@@ -1,0 +1,12 @@
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\bin\Debug\netcoreapp2.2\Trans_Charge.deps.json
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\bin\Debug\netcoreapp2.2\Trans_Charge.runtimeconfig.json
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\bin\Debug\netcoreapp2.2\Trans_Charge.runtimeconfig.dev.json
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\bin\Debug\netcoreapp2.2\Trans_Charge.dll
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\obj\Debug\netcoreapp2.2\Trans_Charge.csprojAssemblyReference.cache
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\obj\Debug\netcoreapp2.2\Trans_Charge.csproj.CoreCompileInputs.cache
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\obj\Debug\netcoreapp2.2\Trans_Charge.AssemblyInfoInputs.cache
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\obj\Debug\netcoreapp2.2\Trans_Charge.AssemblyInfo.cs
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\bin\Debug\netcoreapp2.2\Trans_Charge.pdb
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\obj\Debug\netcoreapp2.2\Trans_Charge.dll
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\obj\Debug\netcoreapp2.2\Trans_Charge.pdb
+C:\Users\loolaoluwa\source\repos\Trans_Charge\Trans_Charge\bin\Debug\netcoreapp2.2\fees.config.json
